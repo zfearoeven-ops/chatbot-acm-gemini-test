@@ -150,9 +150,9 @@ st.markdown(
   ou face à une situation préoccupante qui ne peut attendre.</p>
   <p>Hors horaires de bureau, l’astreinte est réservée aux urgences : si personne ne répond,
   laisse obligatoirement un message décrivant la situation. Pour les questions courantes,
-  utilise le groupe WhatsApp du séjour.</p>
+  utilise ce chatbot ou le groupe WhatsApp du séjour.</p>
   <p class="telephone">📞 Siège : 03 20 75 10 85 — de 9 h à 17 h en semaine, hors jours fériés.</p>
-  <p>📱 Astreinte : hors horaires du siège. Tous les numéros sont dans votre téléphone professionnel.</p>
+  <p>📱 Astreinte : hors horaires du siège. Tous les numéros sont dans votre téléphone professionnel ou sur WhatsApp.</p>
 </div>
 """,
     unsafe_allow_html=True,
